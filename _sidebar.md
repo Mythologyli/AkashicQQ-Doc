@@ -6,8 +6,8 @@
 
 * [配置文件](config)
 
-    * [.env](env)
+    * [.env](config/env)
 
-    * [group.json](group)
+    * [group.json](config/group)
 
-    * [mc_server.json](mc_server)
+    * [mc_server.json](config/mc_server)
