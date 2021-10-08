@@ -25,4 +25,4 @@
     `server` 项为您每一个服务器的具体配置。
 
     + `tag`：服务器 Prism Console 的 tag
-    + `url`：服务器 Prism Console API 对应的 url 地址，即 `http://{host}:{port}`
+    + `url`：服务器 [Prism Console API](install?id=安装-prism-console) 对应的 url 地址，即 `http://{address}:{port}`

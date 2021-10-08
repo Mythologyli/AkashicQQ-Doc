@@ -1,6 +1,6 @@
 # group.json
 
-> 注意：group.json 及其之后的配置文件均为 JSON 格式，位于根目录下的 config 文件夹中。请使用 UTF-8 格式编辑和保存配置文件，并确保配置文件符合 JSON 格式。
+> 注意：group.json 及其之后的配置文件均为 JSON 格式，位于根目录下的 config 文件夹中。请使用 UTF-8 编码编辑和保存配置文件，并确保配置文件符合 JSON 格式。
 
     {
         "main_group": 123456789,
