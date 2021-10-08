@@ -19,3 +19,7 @@
     * [cmd_register.json](config/cmd_register)
 
     * [get_invitation.json](config/get_invitation)
+
+    * [bilibililive_checker.json](config/bilibililive_checker)
+
+    * [text.json](config/text)
