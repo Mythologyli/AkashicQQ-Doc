@@ -11,3 +11,7 @@
     * [group.json](config/group)
 
     * [mc_server.json](config/mc_server)
+
+    * [mc_event.json](config/mc_event)
+
+    * [cmd_alias.json](config/cmd_alias)
