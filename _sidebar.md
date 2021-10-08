@@ -17,3 +17,5 @@
     * [cmd_alias.json](config/cmd_alias)
 
     * [cmd_register.json](config/cmd_register)
+
+    * [get_invitation.json](config/get_invitation)

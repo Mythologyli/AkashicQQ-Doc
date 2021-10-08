@@ -1,6 +1,6 @@
 # cmd_alias.json
 
-cmd_alias.json 配置了每个命令的名称和别名。
+cmd_alias.json 配置了每个 AkashicQQ 命令的名称和别名。
 
 > 注意：别名可以有多个，但必须为每个命令配置一个名称。玩家可以使用 #命令名称 或 #命令别名 触发命令。
 

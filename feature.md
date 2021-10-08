@@ -18,7 +18,7 @@
 
 ## 发送邀请码
 
-您可以将 AkashicQQ 和 您的 [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) 对接，实现在 QQ 群中申请皮肤站的邀请码。您可以通过配置文件指定每个玩家的默认申请次数，也可以手动调整他们的申请余量。管理员可以向机器人无限索要邀请码。
+您可以将 AkashicQQ 和您的 [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) 对接，实现在 QQ 群中申请皮肤站的邀请码。您可以通过配置文件指定每个玩家的默认申请次数，也可以手动调整他们的申请余量。管理员可以向机器人无限索要邀请码。
 
 ## 多服务器支持、多服务端支持
 
