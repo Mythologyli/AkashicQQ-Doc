@@ -6,8 +6,8 @@
 
 AkashicQQ 由以下几个模块构成，模块之间通过网络连接：
 
-+ AkashicQQ 机器人本体（一个 Python 程序）
-+ Prism Console（一个 Python 程序）
++ [AkashicQQ 机器人本体](https://github.com/Mythologyli/AkashicQQ)（一个 Python 程序）
++ [Prism Console](https://github.com/Mythologyli/Prism)（一个 Python 程序）
 + cqhttp(onebot) 协议实现程序，如 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)、[onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)、[OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa) 等等
 
 可能有读者觉得模块太多，但正是这样的实现增强了 AkashicQQ 的可拓展性、可自定义性，提升了 AkashicQQ 的性能。你甚至可以将三个模块安装在三个服务器上，自由地分配服务器性能。
