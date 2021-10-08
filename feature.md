@@ -28,7 +28,7 @@
 
 AkashicQQ 通过作者的另一个程序 [Prism Console](https://github.com/Mythologyli/Prism) 与 Minecraft 服务器通信。您可以将多个服务器同时接入 AkashicQQ，实现跨服聊天等功能。
 
-不仅如此，得益于 Prism Console 使用管道与 Minecraft 通信的特点，AkashicQQ 支持原版、Spigot、Paper、Forge、Fabric、Sponge 等多种服务端，而不依赖于插件或模组环境。与插件和模组不同，AkashicQQ 在实现功能的同时几乎不会对您的服务器性能造成任何影响。
+不仅如此，得益于 Prism Console 使用管道与 Minecraft 通信的特点，AkashicQQ 支持原版、Spigot、Paper、Forge、Fabric、Sponge 等多种服务端，而不依赖于插件或模组环境。与插件和模组不同，AkashicQQ 在实现功能的同时几乎不会对您的服务器性能造成任何影响。当您对 AkashicQQ 进行修改甚至重启时，您也无需重启游戏服务器。
 
 ## 服务器在线人数查询
 

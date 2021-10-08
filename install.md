@@ -42,13 +42,13 @@ AkashicQQ 并不能直接与腾讯的服务器通讯，而要借助 cqhttp(onebo
 
         您可以使用您的包管理器安装 Python 环境，例如 `sudo apt install python3 python3-pip`。请一并安装 pip。
 
-2. 通过[下载链接](https://hub.akashic.cc/Myth/Prism/archive/main.zip)下载 Prism Console。解压得到如下内容：
+2. 通过[下载链接](http://fumacrom.com/2R4be)下载 Prism Console。解压得到如下内容：
 
     <img src="_media/prism-folder.png" width="30%">
 
-3. 将 prism 文件夹、prism.py、prism_config.json、requirements.txt 文件复制到服务器根目录下。
+1. 将 prism 文件夹、prism.py、prism_config.json、requirements.txt 文件复制到服务器根目录下。
 
-4. 编辑 prism_config.json。
+2. 编辑 prism_config.json。
 
     > 注意：请使用 UTF-8 编码打开和保存 JSON 文件。
 
@@ -105,19 +105,19 @@ AkashicQQ 并不能直接与腾讯的服务器通讯，而要借助 cqhttp(onebo
         + `tag`：与上面的 `tag` 保持一致。
         + `event`：哪些事件会被上报。无需更改。
 
-5. 将服务器根目录在终端中打开。在命令行输入 `pip3 install -r requirements.txt` 安装依赖。
+3. 将服务器根目录在终端中打开。在命令行输入 `pip3 install -r requirements.txt` 安装依赖。
 
     > 提示：[如何将当前文件夹在终端打开？](https://jingyan.baidu.com/article/1974b289c2e6f6f4b0f77466.html)
     
     > 提示：pip3 连接缓慢？[为 pip3 更换软件源](https://www.cnblogs.com/chenlizhi/p/13742163.html)
 
-6. 命令行输入 `python3 prism.py`(Linux) 或 `python prism.py`(Windows) 运行 Prism Console。不出意外，您的服务器将正常启动。
+4. 命令行输入 `python3 prism.py`(Linux) 或 `python prism.py`(Windows) 运行 Prism Console。不出意外，您的服务器将正常启动。
 
     > 提示：看不见服务器启动的输出？检查服务器启动命令。
 
     > 提示：AkashicQQ 官方交流群：433142833
 
-7. 如果您有其它服务器，请重复此过程，为每个服务器配置 Prism Console。
+5. 如果您有其它服务器，请重复此过程，为每个服务器配置 Prism Console。
 
 ## 安装 cqhttp(onebot) 协议实现程序
 
@@ -133,7 +133,7 @@ AkashicQQ 并不能直接与腾讯的服务器通讯，而要借助 cqhttp(onebo
 
 1. 完成以上准备后，我们可以开始 AkashicQQ 本体的安装了。您同样需要安装 Python 环境。如果您安装 AkashicQQ 的服务器与 Prism Console 相同，则不用再次安装。否则，您可能需要重复一遍安装 Python 环境的过程。
 
-2. 通过[下载链接](https://hub.akashic.cc/Myth/AkashicQQ/archive/main.zip)下载 AkashicQQ。解压得到如下内容：
+2. 通过[下载链接](http://fumacrom.com/2R4sN)下载 AkashicQQ。解压得到如下内容：
 
     <img src="_media/akashic-folder.png" width="30%">
 
