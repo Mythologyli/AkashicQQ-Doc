@@ -15,3 +15,7 @@ AkashicQQ 拥有许多功能，其配置方法也相对复杂，本 Wiki 旨在�
 联系我们：[mc@akashic.cc](mailto:mc@akashic.cc)
 
 > 友情链接：[Akashic Server 服务器](https://mc.akashic.cc)
+
+---
+
+[京ICP备2021000186号](http://beian.miit.gov.cn/)
