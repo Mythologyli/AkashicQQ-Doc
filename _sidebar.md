@@ -15,3 +15,5 @@
     * [mc_event.json](config/mc_event)
 
     * [cmd_alias.json](config/cmd_alias)
+
+    * [cmd_register.json](config/cmd_register)
